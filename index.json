@@ -1,0 +1,181 @@
+{
+  "library": "clavecin",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/clavecin",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/clavecin-opus-48",
+  "branch": "master",
+  "fileCount": 12,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/clavecin-opus-48/master/",
+  "files": [
+    {
+      "file": "Clavecin_C3.opus",
+      "name": "Clavecin_C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/clavecin-opus-48/master/Clavecin_C3.opus",
+      "size": 36503,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Clavecin_C4.opus",
+      "name": "Clavecin_C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/clavecin-opus-48/master/Clavecin_C4.opus",
+      "size": 38893,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Clavecin_C5.opus",
+      "name": "Clavecin_C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/clavecin-opus-48/master/Clavecin_C5.opus",
+      "size": 27751,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Clavecin_C6.opus",
+      "name": "Clavecin_C6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/clavecin-opus-48/master/Clavecin_C6.opus",
+      "size": 28708,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Clavecin_C7.opus",
+      "name": "Clavecin_C7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/clavecin-opus-48/master/Clavecin_C7.opus",
+      "size": 19496,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Clavecin_E3.opus",
+      "name": "Clavecin_E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/clavecin-opus-48/master/Clavecin_E3.opus",
+      "size": 50931,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Clavecin_E4.opus",
+      "name": "Clavecin_E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/clavecin-opus-48/master/Clavecin_E4.opus",
+      "size": 38501,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Clavecin_E5.opus",
+      "name": "Clavecin_E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/clavecin-opus-48/master/Clavecin_E5.opus",
+      "size": 27043,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Clavecin_E6.opus",
+      "name": "Clavecin_E6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/clavecin-opus-48/master/Clavecin_E6.opus",
+      "size": 19833,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Clavecin_G3.opus",
+      "name": "Clavecin_G3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/clavecin-opus-48/master/Clavecin_G3.opus",
+      "size": 46641,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Clavecin_G4.opus",
+      "name": "Clavecin_G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/clavecin-opus-48/master/Clavecin_G4.opus",
+      "size": 38224,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Clavecin_G5.opus",
+      "name": "Clavecin_G5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/clavecin-opus-48/master/Clavecin_G5.opus",
+      "size": 25550,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "48": [
+      "Clavecin_C3.opus"
+    ],
+    "52": [
+      "Clavecin_E3.opus"
+    ],
+    "55": [
+      "Clavecin_G3.opus"
+    ],
+    "60": [
+      "Clavecin_C4.opus"
+    ],
+    "64": [
+      "Clavecin_E4.opus"
+    ],
+    "67": [
+      "Clavecin_G4.opus"
+    ],
+    "72": [
+      "Clavecin_C5.opus"
+    ],
+    "76": [
+      "Clavecin_E5.opus"
+    ],
+    "79": [
+      "Clavecin_G5.opus"
+    ],
+    "84": [
+      "Clavecin_C6.opus"
+    ],
+    "88": [
+      "Clavecin_E6.opus"
+    ],
+    "96": [
+      "Clavecin_C7.opus"
+    ]
+  }
+}
